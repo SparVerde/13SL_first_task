@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gumiabrocs utmutató</title>
+    <link rel="stylesheet" href="abroncsStyle.css">
+</head>
+<body background-image="abroncs_2.jpg">
+    <h1>
+        Tanácsok autógumi vásárláshoz
+    </h1>
+    <h2>
+        Mire figyeljünk amikor gumi abroncsot választunk
+    </h2>
+    <div class="menu">
+        <p >
+            <a href="#elso" style="text-decoration: none;">A megfelelő gumiabroncs</a>
+        </p>
+        <p>
+            <a href="#masodik" style="text-decoration: none;">Mire figyeljünk</a>
+        </p>        
+        <p>
+            <a href="#harmadik" style="text-decoration: none;">Mikor kell abroncsot cserélni</a>
+        </p>        
+        <p>
+            <a href="#negyedik" style="text-decoration: none;">Tévhitek</a>
+        </p>
+        <p>
+            <a href="#otodik" style="text-decoration: none;">Az abroncs jelölései</a>
+        </p>
+        <p>
+            <a href="https://www.kleber.hu/auto/kleber-trust-ajanlat" style="text-decoration: none;" target="_blank">Kleber Trust program</a>
+        </p>
+        <p>
+            <a href="gumiabroncs_2.html" style="text-decoration: none;" target="_blank">Kapcsolat</a>
+        </p>
+    </div>
+    
+
+    <p id="elso">
+        A megfelelő gumiabroncs kiválasztása és megfelelő felszerelése alapvető fontosságú és akár életmentő lehet. Érdemes végiggondolni autógumi abroncs vásárlás előtt, 
+        hogy milyen mintázatú gumiabroncsot vásároljuk személygépkocsinkra. 
+        Nagyon fontos, hogy betartsuk az előírásokat, leginkább arról, hogy az időjárásnak és évszakoknak megfelelő abroncsot szereljünk az autónkra és az autónak megfekleleő méretet válasszuk.
+    </p>
+    <p id="kep1">
+        <img src="https://kep.index.hu/1/0/1912/19129/191291/19129151_00f74a979084aecb06c6a15b2ce61e6c_wm.jpg" alt="lamellák" title="lamellák">
+    </p>
+    <p id="masodik">
+        Az abroncs teljesítménye és tulajdonságai mellett érdemes a gyártóra is figyelmet fordítani. Jó ha tisztában vagyunk az abroncs jelöléseivel.
+        Ugyanis a gyártó az általa kínált teljesítmény mellett egyéb szolgáltatásokat is nyújthat a felhasználóknak,
+        mint a kátyú garancia vagy az újabban megjelent elégedettségi garancia. Jó példa erre a Kleber "Trust" programja.
+
+    </p>
+    <p id="harmadik">
+        Mikor kell abroncsot cserélni
+Hozzájárul a közúti biztonsághoz, ha rendszeresen ellenőrzi az abroncsait.
+VIGYÁZAT: Ne várja meg a defektet, mielőtt abroncsot cserél! 
+Ha kopott abroncsokkal nedves úton vezet, még nagyobb a kockázata, hogy elveszti a tapadást, ugyanakkor a féktáv is hosszabb, és a vízen való felúszás (aquaplanning) kockázata is magasabb. 
+Kopás rendszeres ellenőrzése.
+Ellenőrizze a futófelület közepén a kopásjelzőket (az abroncs talajjal érintkező részén). Amikor a kopásjelző magassága eléri a jelet, az abroncs elérte a törvényben meghatározott 1,6 mm-es profilmélységet. 
+Javasoljuk, hogy már akkor cserélje az abroncsokat, mielőtt ezt az értéket elérné.
+Ezen az értéken túl a saját biztonságát veszélyezteti, és megszegi a törvényt. 
+Bizonyos országok saját téli törvényekkel rendelkeznek, és a téli abroncsok minimális profilmélysége eltérhet. Ellenőrizze, hogy megfelel-e a meglátogatott országban érvényes jogszabályoknak!
+    </p>
+    <ul id="negyedik">
+        <span>
+            Tévhitek   
+        </span>
+
+        <li>
+            A téli abroncsot nem érdemes lecserélni nyárira
+        </li>
+        <li>
+            A négy évszakos gumi semmire sem jó
+        </li>
+        <li>
+            Nem kell az abroncs tárolására figyelmet gófordítani
+        </li>
+        <li>
+            Csak akkor kell használni téli gumit ha jeges az út
+        </li> 
+        <li>
+            Elég, ha csak a hajtott keréken van téli gumi
+        </li>
+    </ul>
+    <ol id="otodik">
+        <span>
+            Az abroncs jelölései:
+        </span>
+        például a DYNAXER HP3 jelölései 205/55 R16 91V
+        <li>
+            205-ös abroncs: Az abroncs szélessége 205 mm. 
+        </li>
+        <li>
+            55: Az oldalfal az abroncs szélességének 55%-át teszi ki.
+        </li>
+        <li>
+            R: Radiális szerkezetű        </li>
+        <li>
+            16: Az abroncs belső átmérője 16 inch
+        </li> 
+        <li>
+            91: Ez a terhelési index azt jelzi, hogy az abroncs maximális terhelése 615 kg. Minden egyes index az abroncs által maximális nyomáson elbírt maximális terhelésnek felel meg
+        </li>
+        <li>
+            V: Ez az abroncs a 240 km/h-s maximális sebességig elbírja a terhelési indexnek megfelelő terhelést
+        </li>
+        <p id="kep2">
+            <img src="C:\Users\ildiko\Documents\Visual studio munkak\szazsiskola_web1\img\celica_abroncs.jpg" alt="abroncs" title="abroncs méretek">
+        </p>
+    </ol>
+</body>
+</html>
